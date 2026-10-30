@@ -1,0 +1,9 @@
+[
+ {"body":"Company: Sunloop\nSector: climate\nStage: Seed\nCountry: Germany\nAsk: €1.2m\nContact: mira@sunloop.example"},
+ {"body":"Company: ReefRelay\nSector: biodiversity\nStage: Series A\nCountry: Sweden\nAsk: €4m\nContact: team@reefrelay.example"},
+ {"body":"Company: CareNest\nSector: health\nStage: Pre-seed\nCountry: France\nAsk: €800k\nContact: ana@carenest.example"},
+ {"body":"Company: ClassOrbit\nSector: education\nStage: Seed\nCountry: Netherlands\nAsk: €1m\nContact: founders@classorbit.example"},
+ {"body":"Company: Sunloop\nSector: climate\nStage: Seed\nCountry: Germany\nAsk: €1.2m\nContact: second@sunloop.example"},
+ {"body":"Company: Northstar Robotics\nSector: logistics\nStage: Series B\nCountry: USA\nAsk: $8m\nContact: hello@northstar.example"},
+ {"body":"Company: MissingFields\nSector: climate\nCountry: Germany\nAsk: €500k\nContact: founder@missing.example"}
+]
